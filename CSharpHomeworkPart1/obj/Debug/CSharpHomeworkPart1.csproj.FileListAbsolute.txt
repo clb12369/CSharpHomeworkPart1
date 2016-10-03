@@ -1,0 +1,6 @@
+D:\IronYardProjects\CSharpHomeworkPart1\CSharpHomeworkPart1\bin\Debug\CSharpHomeworkPart1.exe.config
+D:\IronYardProjects\CSharpHomeworkPart1\CSharpHomeworkPart1\obj\Debug\CSharpHomeworkPart1.csprojResolveAssemblyReference.cache
+D:\IronYardProjects\CSharpHomeworkPart1\CSharpHomeworkPart1\bin\Debug\CSharpHomeworkPart1.exe
+D:\IronYardProjects\CSharpHomeworkPart1\CSharpHomeworkPart1\bin\Debug\CSharpHomeworkPart1.pdb
+D:\IronYardProjects\CSharpHomeworkPart1\CSharpHomeworkPart1\obj\Debug\CSharpHomeworkPart1.exe
+D:\IronYardProjects\CSharpHomeworkPart1\CSharpHomeworkPart1\obj\Debug\CSharpHomeworkPart1.pdb
